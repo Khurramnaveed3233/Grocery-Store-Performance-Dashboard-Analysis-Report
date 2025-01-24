@@ -13,8 +13,8 @@ The analysis covers key metrics like total sales, quantity sold, product perform
   - Average Delivery Time: 4 days
   - Total Return Orders: 1079
 
- - **Sales by Segment:
+ - **Sales by Segment**:
    
- - Consumer: $1.73M (50.79%)
- - Corporate: $1.06M (31.27%)
- - Home Office: $616K (17.94%)
+   - Consumer: $1.73M (50.79%)
+   - Corporate: $1.06M (31.27%)
+   - Home Office: $616K (17.94%)
