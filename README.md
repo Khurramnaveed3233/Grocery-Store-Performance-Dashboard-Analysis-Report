@@ -6,6 +6,10 @@ This report analyzes the sales performance of the grocery store as visualized in
 
 The analysis covers key metrics like total sales, quantity sold, product performance, customer segments, and market regions. The dashboard is segmented into various visualizations, providing insights into sales by segment, market, top customers, and product trends. Our objective is to provide actionable insights based on these observations to help drive decisions that will enhance profitability and operational efficiency.
 
+# Shema of Grocery Data in Power Bi :
+
+![schema](https://github.com/user-attachments/assets/9ee789c9-288f-4078-b250-23041eb1e84a)
+
 - **Key Metrics Overview**:
   
   - Total Sales (Sum of Sales): $3.41M
