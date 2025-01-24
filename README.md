@@ -18,3 +18,12 @@ The analysis covers key metrics like total sales, quantity sold, product perform
    - Consumer: $1.73M (50.79%)
    - Corporate: $1.06M (31.27%)
    - Home Office: $616K (17.94%)
+
+- **Segment Analysis**:
+
+   - The Consumer segment is the dominant contributor to sales, making up over 50% of total sales. This suggests that the grocery store's largest customer base consists of individual buyers.
+     
+   - Corporate customers also contribute a significant portion of sales (31%), indicating strong demand from business entities. Tailored offers or loyalty programs for these corporate clients could lead to an increase in orders and long-term relationships.
+     
+   - Home Office is the smallest segment (17.94%). Further investigation is needed to understand whether this segment is worth targeting more aggressively or should be deprioritized in 
+     favor of other opportunities.
