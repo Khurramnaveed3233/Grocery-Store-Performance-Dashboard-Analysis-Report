@@ -47,9 +47,9 @@ The analysis covers key metrics like total sales, quantity sold, product perform
 
 # Recommendations:
 
-- **Maximize Sales in Top Markets: Since the USCA and Asia Pacific regions are leading in sales, doubling down on these regions with targeted marketing campaigns could drive further growth. The store could introduce region-specific promotions, such as discounts or faster delivery times**.
+Maximize Sales in Top Markets: Since the USCA and Asia Pacific regions are leading in sales, doubling down on these regions with targeted marketing campaigns could drive further growth. The store could introduce region-specific promotions, such as discounts or faster delivery times**.
   
-- **Focus on Corporate Segment: The strong performance of the corporate segment suggests an opportunity to develop tailored corporate packages or loyalty programs. These programs could include bulk purchasing incentives or priority delivery services for businesses**.
+Focus on Corporate Segment: The strong performance of the corporate segment suggests an opportunity to develop tailored corporate packages or loyalty programs. These programs could include bulk purchasing incentives or priority delivery services for businesses .
   
 - **Revitalize Loss Products: The analysis of top loss products suggests a need for a detailed product performance review. Products like Okidata Ink and Hoover Stove, with significant losses, may need to be reassessed. The store can consider promotional sales or reducing inventory for such products**.
   
